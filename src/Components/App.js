@@ -1,7 +1,4 @@
 import React from 'react';
-//import { connect } from 'react-redux';
-//import * as actions from '../redux/actions';
-
 import ContactForm from './ContactForm/ContactForm';
 import ContactList from './ContactList/ContactList';
 import Filter from './Filter/Filter';
